@@ -72,7 +72,7 @@ const getAllProducts = () => {
     });
 
     html += `<tr>
-      <td colspan = "6" class="text-right"> Total amount : ${total} BDT</td>
+      <td colspan = "6" class="text-end"> Total amount : ${total} BDT</td>
       <td></td>
       </tr>`;
 
